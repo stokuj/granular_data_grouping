@@ -199,5 +199,5 @@ LinkageAlgorithm(
 
 ## Autor i licencja
 
-- **Autor**: Twoje Imię i Nazwisko
+- **Autor**: Krystian Stasica
 - **Licencja**: MIT
