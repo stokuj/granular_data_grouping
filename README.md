@@ -1,4 +1,4 @@
-# Hierarchiczne grupowanie danych w Pythonie
+# Granularne grupowanie danych w Pythonie
 
 ## Wstęp
 
