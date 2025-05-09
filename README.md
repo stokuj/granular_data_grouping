@@ -88,6 +88,15 @@ project_root/
     └── normal/...
 ```
 
+## Wymagania
+- Python 3.9+
+- Biblioteki:
+  - `numpy` (obliczenia numeryczne)
+  - `matplotlib` (wizualizacja)
+  - `scikit-learn` (implementacja DBSCAN i KNN)
+  - `pandas` (przetwarzanie danych)
+  - `scipy` (obliczenia hierarchiczne)
+
 ## Instalacja
 
 ```bash
