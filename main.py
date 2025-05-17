@@ -11,7 +11,7 @@ from sklearn.metrics import accuracy_score
 import point_generators as pg
 import DBscan as db
 import KNN as KNN
-import time
+
 
 #################################################################################################################################
 ### Single/complete linkage
